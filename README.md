@@ -16,6 +16,8 @@ RNN model:
 <br />
 
 HMM model: 
+
 <br />
+
 ![alt tag](https://github.com/xinlingl/Optimize-Machine-Learning-to-Find-Transcription-Factor-Binding-Sites-/blob/master/HMM_model.png)
 
