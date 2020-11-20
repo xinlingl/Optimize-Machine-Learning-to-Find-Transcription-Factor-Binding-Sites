@@ -3,7 +3,9 @@
 The goal of this project is optimize machine learning methods to find transcription factor binding sites. In our project, we implemented CNN, RNN, and HMM and apply them to the same data set to see their performance.
 <br />
 
-Please read README.pdf to get an idea on how to run our program
+Please read README.pdf to get an idea on how to run our program. 
+
+Project report.pdf contains the performance of each model and the results of comparions. 
 
 <br />
 
