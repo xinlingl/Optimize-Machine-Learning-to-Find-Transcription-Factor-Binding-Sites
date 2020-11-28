@@ -5,7 +5,7 @@ The goal of this project is to optimize machine learning methods to find transcr
 
 Please read README.pdf to get an idea on how to run our program. 
 
-Project report.pdf contains the performance of each model and the results of comparions. 
+710 project report.pdf contains the performance of each model and the results of comparions. 
 
 <br />
 
