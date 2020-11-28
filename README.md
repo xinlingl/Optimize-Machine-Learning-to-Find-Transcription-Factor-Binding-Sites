@@ -1,4 +1,4 @@
-# ML-Method-For-TF-Motif
+# ML-Methods-For-TFBS
 
 The goal of this project is to optimize machine learning methods to find transcription factor binding sites with high accuracy. In our project, we implemented CNN, RNN, and HMM and apply them to the same data set to see their performance.
 <br />
